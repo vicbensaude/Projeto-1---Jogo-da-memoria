@@ -1,0 +1,56 @@
+body {
+    background-image:url('./fotos/background.jpg')
+
+}
+
+
+main{
+    background-color: rgba(7, 7, 7, 0.707);
+    width: 400px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-left: 435px;
+}
+
+h1 {
+    color: rgb(244, 251, 251);
+    font-size: 90px;
+    width: auto;
+    max-width:0px;
+    justify-content: center;
+    align-items:center ;
+    display: flex;
+    margin: 15px 250px 0 0 ;
+    text-align: center;
+}
+
+.login_header {
+    color: rgb(241, 58, 17);
+    text-align: center;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 30px;
+}
+
+
+.input_login
+{
+    border: 2px solid #333;
+    border-radius: 8px;
+    color: #333;
+    font-size: 25px; 
+    padding: 15px;
+
+}
+
+.login_button  {
+    background-color: rgb(18, 18, 14);
+    width: 100%;
+    padding: 15px;
+    font-size: 25px;
+    color: rgb(245, 233, 233);
+    margin-top: 70px;
+}
